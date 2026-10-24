@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "TotallyRealPlayer",
   "bot-account": {
     "username": "HostingBot353827",
     "password": "",
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to HowToUseAternos!",
         "I like to play Minecraft!"
       ]
     },
